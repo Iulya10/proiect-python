@@ -1,0 +1,3 @@
+flask         # serverul web
+flask-cors    # permite acces de la alte aplicații (ex: Thunkable)
+python-whois  # permite obținerea informațiilor despre domeniu (data creării, etc.)
